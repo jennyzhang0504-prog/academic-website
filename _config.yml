@@ -24,13 +24,13 @@ repository               : "jennyzhang0504-prog/academic-website"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Jenny (Sirui) Zhang"
+  pronouns         : "She/her/hers"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Cincinnati"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhang3si@mail.uc.edu" 
 
   # Academic websites
   academia         : # URL

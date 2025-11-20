@@ -23,7 +23,7 @@ repository               : "jennyzhang0504-prog/academic-website"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Jenny (Sirui) Zhang"
   pronouns         : "She/her/hers"  
   bio              : "PhD student at Department of Finance - Real Estate, Carl H. Lindner College of Business"
